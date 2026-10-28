@@ -2,6 +2,8 @@
 
 **Go from an ICP to a verified, campaign-ready pipeline using only Claude Code + Prospeo.**
 
+> Built and maintained by [OneGTMLab](https://www.onegtmlab.dev). Prospeo API review and comparisons: https://www.onegtmlab.dev/tool-directory
+
 ![Claude Code + Prospeo](infographic.png)
 
 ## What this is
