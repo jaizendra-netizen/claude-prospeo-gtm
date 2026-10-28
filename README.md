@@ -1,5 +1,7 @@
 # claude-prospeo-gtm
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jaizendra-netizen/claude-prospeo-gtm)
+
 **Go from an ICP to a verified, campaign-ready pipeline using only Claude Code + Prospeo.**
 
 > Built and maintained by [OneGTMLab](https://www.onegtmlab.dev). Prospeo API review and comparisons: https://www.onegtmlab.dev/tool-directory
