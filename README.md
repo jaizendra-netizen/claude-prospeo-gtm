@@ -80,3 +80,7 @@ Example targets are generic (e.g. "a security vendor", "a fintech"). Bring your 
 ## License
 
 MIT — see [`LICENSE`](LICENSE).
+
+---
+
+Built by [OneGTMLab](https://www.onegtmlab.dev), a GTM engineering agency. More free GTM systems and tool reviews: [onegtmlab.dev/tool-directory](https://www.onegtmlab.dev/tool-directory).
